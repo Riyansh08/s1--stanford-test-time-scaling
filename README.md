@@ -18,7 +18,7 @@ This repository provides an overview of all resources for the paper ["s1: Simple
 - [Visuals](#visuals)
 - [Citation](#citation)
 
-### Artifacts
+### Artifacts 
 
 - **Paper**: https://arxiv.org/abs/2501.19393
 - **Model**: https://hf.co/simplescaling/s1-32B
